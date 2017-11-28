@@ -1,0 +1,8 @@
+prefix: '[SimpleFreeze]'
+usage: 'Usage: /freeze <player>'
+offline: 'Current player is offline'
+permission: 'Sorry, you dont have a permission to execute this command.'
+frozen: 'You are now Frozen'
+unfrozen: 'You are now Unfrozen'
+froze: '%player% is now Frozen'
+unfroze: '%player% is now Unfrozen'

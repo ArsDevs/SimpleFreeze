@@ -1,0 +1,7 @@
+main: me.arsen.misc.simplefreeze.Main
+name: SimpleFreeze
+version: 1.0
+description: Simple Freeze plugin for screenshare
+commands:
+  freeze:
+    description: Use this command to freeze another player
